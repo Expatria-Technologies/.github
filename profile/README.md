@@ -2,6 +2,6 @@ Founded in 2012, Expatria is an agile design services and R&D company that is co
 
 The Expatria team has taken a growing interest in open source CNC projects, and has worked with the community to develop some flexiable and reliable options for running GRBLHAL and Linux CNC.
 
-Our Web Shop  https://expatria.myshopify.com/
+The best way to support our open-source projects is our webshop:  https://expatria.myshopify.com/
 
 Join us on Discord! https://discord.gg/bSEXy7GhcZ

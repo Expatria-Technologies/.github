@@ -1,0 +1,1 @@
+Founded in 2012, Expatria is an agile design services and R&D company that is composed of a close-knit team of highly talented and dedicated professionals. We specialize in developing custom hardware platforms and integrated software solutions for wireless products.
